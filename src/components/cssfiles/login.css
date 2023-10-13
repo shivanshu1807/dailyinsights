@@ -1,0 +1,16 @@
+body{
+    background-color: #478978;
+}
+#fds{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 40px;
+}
+#con1{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    top: 170px;
+}

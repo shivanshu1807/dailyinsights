@@ -1,0 +1,17 @@
+#con2{
+    display: flex;
+    justify-content: center;
+}
+#fid{
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    padding: 40px;
+}
+#con2{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    top: 80px;
+}
