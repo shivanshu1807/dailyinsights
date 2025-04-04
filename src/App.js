@@ -10,4 +10,3 @@ impor
   );
 }
 
-export default App;
