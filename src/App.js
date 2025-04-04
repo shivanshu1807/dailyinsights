@@ -8,6 +8,8 @@ import './App.css'
 function App() {
   return (
     <Router>
+
+    
           <Navbar />
           <div className="contain">
             <Routes>
